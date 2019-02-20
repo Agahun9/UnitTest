@@ -349,3 +349,26 @@ healthchecksdb
 # End of https://www.gitignore.io/api/visualstudio
 .vs/ConsoleApp4/v15/Server/sqlite3/storage.ide-wal
 .vs/ConsoleApp4/v15/Server/sqlite3/storage.ide-wal
+.vs/ConsoleApp4/v15/.suo
+UnitTestProject2/obj/Debug/UnitTestProject2.dll
+.vs/ConsoleApp4/v15/.suo
+UnitTestProject2/bin/Debug/UnitTestProject2.dll
+UnitTestProject2/bin/Debug/UnitTestProject2.pdb
+UnitTestProject2/obj/Debug/UnitTestProject2.pdb
+.vs/ConsoleApp4/v15/.suo
+.vs/ConsoleApp4/v15/Server/sqlite3/storage.ide-shm
+.vs/ConsoleApp4/v15/Server/sqlite3/storage.ide-wal
+ConsoleApp4/bin/Debug/ConsoleApp4.exe
+ConsoleApp4/bin/Debug/ConsoleApp4.pdb
+ConsoleApp4/obj/Debug/ConsoleApp4.exe
+ConsoleApp4/obj/Debug/ConsoleApp4.pdb
+ConsoleApp4/obj/Debug/ConsoleApp4.csproj.CoreCompileInputs.cache
+ConsoleApp4/obj/Debug/ConsoleApp4.csprojAssemblyReference.cache
+UnitTestProject2/bin/Debug/ConsoleApp4.exe
+UnitTestProject2/bin/Debug/ConsoleApp4.pdb
+UnitTestProject2/bin/Debug/UnitTestProject2.dll
+UnitTestProject2/bin/Debug/UnitTestProject2.pdb
+UnitTestProject2/obj/Debug/UnitTestProject2.dll
+UnitTestProject2/obj/Debug/UnitTestProject2.pdb
+UnitTestProject2/obj/Debug/UnitTestProject2.csproj.CoreCompileInputs.cache
+UnitTestProject2/obj/Debug/UnitTestProject2.csprojAssemblyReference.cache

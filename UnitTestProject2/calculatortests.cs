@@ -39,5 +39,15 @@ namespace Calculator
 
         }
 
+        [TestMethod]
+        public void QuotientTest()
+        {
+            var calc = new Calculator();
+            int a = 5;
+            int b = 4;
+            int result = calc.Qutient(a, b);
+            Assert.AreEqual(20, result);
+        }
+
     }
 }

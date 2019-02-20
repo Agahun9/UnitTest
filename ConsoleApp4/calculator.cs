@@ -19,5 +19,10 @@ namespace Calculator
         {
             return a + b;
         }
+
+        public int Qutient(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
